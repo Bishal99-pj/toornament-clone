@@ -1,45 +1,44 @@
-  {
+{
   "games": [
     {
       "name": "League of Legends",
-      "image": "/src/public/assets/toornament-hero-game-card.jpg",
+      "image": "/public/assets/toornament-hero-game-card.jpg",
       "logo": "LEAGUE OF LEGENDS"
     },
     {
       "name": "Counter-Strike",
-      "image": "/src/public/assets/toornament-hero-game-card.jpg",
+      "image": "/public/assets/toornament-hero-game-card.jpg",
       "logo": "COUNTER-STRIKE"
     },
     {
       "name": "FIFA",
-      "image": "/src/public/assets/toornament-hero-game-card.jpg",
+      "image": "/public/assets/toornament-hero-game-card.jpg",
       "logo": "FIFA"
     },
     {
       "name": "Mobile Legends",
-      "image": "/src/public/assets/toornament-hero-game-card.jpg",
+      "image": "/public/assets/toornament-hero-game-card.jpg",
       "logo": "MOBILE LEGENDS"
     },
     {
       "name": "Fortnite",
-      "image": "/src/public/assets/toornament-hero-game-card.jpg",
+      "image": "/public/assets/toornament-hero-game-card.jpg",
       "logo": "FORTNITE"
     },
     {
       "name": "Valorant",
-      "image": "/src/public/assets/toornament-hero-game-card.jpg",
+      "image": "/public/assets/toornament-hero-game-card.jpg",
       "logo": "VALORANT"
     },
     {
       "name": "PUBG",
-      "image": "/src/public/assets/toornament-hero-game-card.jpg",
+      "image": "/public/assets/toornament-hero-game-card.jpg",
       "logo": "BATTLEGROUNDS"
     },
     {
       "name": "Rocket League",
-      "image": "/src/public/assets/toornament-hero-game-card.jpg",
+      "image": "/public/assets/toornament-hero-game-card.jpg",
       "logo": "ROCKET LEAGUE"
     }
   ]
 }
-

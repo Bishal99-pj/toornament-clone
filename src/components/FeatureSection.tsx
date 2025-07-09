@@ -14,10 +14,10 @@ const FeatureSection = () => {
                 For players and teams
               </h2>
             </div>
-            
+
             <div className="mb-8 overflow-hidden rounded-sm">
               <img
-                src='/src/public/assets/toornament-feature-bg.webp'
+                src='/public/assets/toornament-feature-bg.webp'
                 alt="Mobile app interface"
                 className="w-full h-80 object-cover shadow-lg hover:scale-110 transition-transform duration-300"
               />
@@ -41,10 +41,10 @@ const FeatureSection = () => {
                 For tournament organizers
               </h2>
             </div>
-            
+
             <div className="mb-8 overflow-hidden rounded-sm">
               <img
-                src='/src/public/assets/toornament-feature-bg.webp'
+                src='/public/assets/toornament-feature-bg.webp'
                 alt="Desktop organizer interface"
                 className="w-full h-80 object-cover shadow-lg hover:scale-110 transition-transform duration-300"
               />

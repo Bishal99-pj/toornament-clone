@@ -1,7 +1,7 @@
 const TrustedSection = () => {
   const trustedCompanyLogos = Array(12).fill({
     name: 'Toornament-partner-company',
-    logoSrc: '/src/public/assets/toornament-trusted-company.png'
+    logoSrc: '/public/assets/toornament-trusted-company.png'
   });
 
   return (

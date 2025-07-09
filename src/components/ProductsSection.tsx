@@ -2,7 +2,7 @@ import { products } from "../data/featuredProducts.json";
 
 const ProductsSection = () => {
   return (
-    <section id="products" className="py-20 bg-[url('../public/assets/toornament-main-section-bg.png')] bg-center bg-cover">
+    <section id="products" className="py-20 bg-[url('/public/assets/toornament-main-section-bg.png')] bg-center bg-cover">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">
