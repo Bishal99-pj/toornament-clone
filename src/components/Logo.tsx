@@ -18,8 +18,8 @@ const Logo: React.FC<LogoProps> = ({
   return (
     <a href="/" className={`flex ${className}`}>
       {showText ? (
-        <img src="/public/assets/toornament-logo.svg" alt="Toornament Logo Textual" className={sizeClasses[size]} />
-      ) : <img src="/public/assets/toornament-logo-small.png" alt="Toornament Logo Small Icon" className={sizeClasses[size]} />}
+        <img src="/assets/toornament-logo.svg" alt="Toornament Logo Textual" className={sizeClasses[size]} />
+      ) : <img src="/assets/toornament-logo-small.png" alt="Toornament Logo Small Icon" className={sizeClasses[size]} />}
     </a>
   );
 };

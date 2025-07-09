@@ -2,22 +2,22 @@
   "products": [
     {
       "name": "Tournament Boost",
-      "icon": "/public/assets/toornament-integration-highlight-icon.png",
+      "icon": "/assets/toornament-integration-highlight-icon.png",
       "description": "Unlock advanced organizer features for 1 tournament, once for all"
     },
     {
       "name": "Professional Circuit",
-      "icon": "/public/assets/toornament-integration-highlight-icon.png",
+      "icon": "/assets/toornament-integration-highlight-icon.png",
       "description": "Unlock all features for your competition project and manage circuits"
     },
     {
       "name": "White-label Platform",
-      "icon": "/public/assets/toornament-integration-highlight-icon.png",
+      "icon": "/assets/toornament-integration-highlight-icon.png",
       "description": "Your customizable gaming platform on your domain name for all your competitions"
     },
     {
       "name": "Developer API",
-      "icon": "/public/assets/toornament-integration-highlight-icon.png",
+      "icon": "/assets/toornament-integration-highlight-icon.png",
       "description": "Freely create your own custom projects for your game or for your community"
     }
   ]

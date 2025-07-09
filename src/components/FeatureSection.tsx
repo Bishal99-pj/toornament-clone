@@ -17,7 +17,7 @@ const FeatureSection = () => {
 
             <div className="mb-8 overflow-hidden rounded-sm">
               <img
-                src='/public/assets/toornament-feature-bg.webp'
+                src='/assets/toornament-feature-bg.webp'
                 alt="Mobile app interface"
                 className="w-full h-80 object-cover shadow-lg hover:scale-110 transition-transform duration-300"
               />
@@ -44,7 +44,7 @@ const FeatureSection = () => {
 
             <div className="mb-8 overflow-hidden rounded-sm">
               <img
-                src='/public/assets/toornament-feature-bg.webp'
+                src='/assets/toornament-feature-bg.webp'
                 alt="Desktop organizer interface"
                 className="w-full h-80 object-cover shadow-lg hover:scale-110 transition-transform duration-300"
               />

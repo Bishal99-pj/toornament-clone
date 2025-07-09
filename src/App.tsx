@@ -8,7 +8,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="min-h-screen">
-      <div className="bg-[url('/public/assets/toornament-hero-bg.webp')] bg-center bg-cover">
+      <div className="bg-[url('/assets/toornament-hero-bg.webp')] bg-center bg-cover">
         <Header />
         <Hero />
       </div>
