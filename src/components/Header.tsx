@@ -27,7 +27,6 @@ const Header = () => {
   return (
     <header className="text-white relative">
       <div className="container mx-auto px-4 py-4">
-        {/* Desktop Header */}
         <div className="hidden md:flex items-center justify-between">
           <div className="flex items-center space-x-8">
             <Logo size="medium" showText={false} />
@@ -69,7 +68,6 @@ const Header = () => {
           </div>
         </div>
 
-        {/* Mobile Header */}
         <div className="md:hidden flex items-center justify-between">
           <div className="flex items-center space-x-3">
             <button onClick={() => setIsMenuOpen(true)}>
@@ -84,7 +82,6 @@ const Header = () => {
           </div>
         </div>
 
-        {/* Mobile Menu Component */}
         <MobileMenu isOpen={isMenuOpen} onClose={() => setIsMenuOpen(false)} />
       </div>
     </header>

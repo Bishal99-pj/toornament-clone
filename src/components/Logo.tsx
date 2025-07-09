@@ -16,11 +16,11 @@ const Logo: React.FC<LogoProps> = ({
   };
 
   return (
-    <div className={`flex ${className}`}>
+    <a href="/" className={`flex ${className}`}>
       {showText ? (
         <img src="/src/public/assets/toornament-logo.svg" alt="Toornament Logo Textual" className={sizeClasses[size]} />
       ) : <img src="/src/public/assets/toornament-logo-small.png" alt="Toornament Logo Small Icon" className={sizeClasses[size]} />}
-    </div>
+    </a>
   );
 };
 
