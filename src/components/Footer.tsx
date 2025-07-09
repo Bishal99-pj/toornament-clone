@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
           <div>
-            <Logo size="large" className="mb-4" />
+            <Logo size="large" className="mb-4 w-36" />
             <p className="text-gray-300 text-lg lg:text-xl mb-6">
               Everything you need for esports competitions
             </p>

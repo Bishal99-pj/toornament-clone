@@ -16,7 +16,7 @@ const Logo: React.FC<LogoProps> = ({
   };
 
   return (
-    <div className={'flex justify-center' + `${className}`}>
+    <div className={`flex ${className}`}>
       {showText ? (
         <img src="/src/public/assets/toornament-logo.svg" alt="Toornament Logo Textual" className={sizeClasses[size]} />
       ) : <img src="/src/public/assets/toornament-logo-small.png" alt="Toornament Logo Small Icon" className={sizeClasses[size]} />}

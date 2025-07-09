@@ -16,7 +16,7 @@ const MobileMenu: React.FC<MobileMenuProps> = ({ isOpen, onClose }) => {
       <div className="container mx-auto px-4 py-4">
         {/* Header */}
         <div className="flex items-center justify-between mb-8">
-          <Logo size="large" />
+          <Logo size="large" className="w-64" />
           <button onClick={onClose}>
             <X size={24} />
           </button>
