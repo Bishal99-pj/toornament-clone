@@ -1,0 +1,51 @@
+{
+  "playersDropdown": {
+    "mainItem": {
+      "title": "Play",
+      "description": "Thousands of tournaments every week, on all the best games, for all playing levels"
+    },
+    "links": [
+      "Help center",
+      "Community Discord",
+      "Blog"
+    ]
+  },
+  "organizersDropdown": {
+    "products": [
+      {
+        "title": "Organizer software",
+        "description": "Free online software to manage your gaming competitions",
+        "icon": "settings"
+      },
+      {
+        "title": "Tournament Boost",
+        "description": "Advanced organizer's features for your tournament",
+        "icon": "zap"
+      },
+      {
+        "title": "Professional Circuit",
+        "description": "Upgrade your competition project and manage circuits",
+        "icon": "award"
+      },
+      {
+        "title": "White-label Platform",
+        "description": "Customizable gaming platform on your domain name",
+        "icon": "globe"
+      },
+      {
+        "title": "Developer API",
+        "description": "Create your own custom projects for your game or community",
+        "icon": "code"
+      }
+    ],
+    "links": [
+      "Pricing",
+      "Case studies",
+      "Blog",
+      "Help center",
+      "Developer doc",
+      "About us",
+      "Contact"
+    ]
+  }
+}

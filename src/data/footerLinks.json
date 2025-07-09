@@ -1,0 +1,24 @@
+{
+  "toornament": [
+    { "label": "For players & teams", "href": "#" },
+    { "label": "For tournament organizers", "href": "#" },
+    { "label": "About us", "href": "#" },
+    { "label": "Contact", "href": "#" }
+  ],
+  "features": [
+    { "label": "Organizer software", "href": "#" },
+    { "label": "Tournament Boost", "href": "#" },
+    { "label": "Professional Circuit", "href": "#" },
+    { "label": "White-label Platform", "href": "#" },
+    { "label": "Developer API", "href": "#" },
+    { "label": "Pricing", "href": "#" }
+  ],
+  "resources": [
+    { "label": "Case studies", "href": "#" },
+    { "label": "Blog", "href": "#" },
+    { "label": "Help center", "href": "#" },
+    { "label": "Developer doc", "href": "#" },
+    { "label": "Terms of use", "href": "#" },
+    { "label": "Privacy policy", "href": "#" }
+  ]
+}
